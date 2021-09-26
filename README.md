@@ -1,2 +1,2 @@
-# web-developing-course-yaakov
+# web-development-course-yaakov
 HTML, CSS, and Javascript for Web Developers - course. Author is Yaakov Chaikin.
